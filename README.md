@@ -4,6 +4,8 @@
 
 In order to better explore the ocean, autonomous underwater vehicles (AUVs) have been widely applied to facilitate information collection. However, due to the large-scale deployment of sensor nodes in the Internet of Underwater Things (IoUT), a homogeneous AUV-enabled system cannot support timely and reliable information collection given the time-varying underwater environment and the energy/mobility constraints of AUVs. This project implements a multi-AUV-assisted heterogeneous underwater information collection scheme that aims to optimize the peak Age of Information (AoI). Our approach utilizes a limited service M/G/1 vacation queueing model to model the information exchange process. Within this framework, the optimal upper limit of the number of AUVs served in the queue is derived, along with the steady-state distribution of the queue length. In addition, a low-complexity adaptive algorithm for adjusting the upper limit of the queuing length is proposed. Simulation results validate the effectiveness of our scheme and algorithm, demonstrating superior performance in peak AoI compared to traditional methods.
 
+[Full Paper (PDF)](https://www.researchgate.net/publication/348150409_AoI_Inspired_Collaborative_Information_Collection_for_AUV_Assisted_Internet_of_Underwater_Things)
+
 
 ## Framework
 

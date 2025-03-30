@@ -1,4 +1,4 @@
-# AUV-Assisted IoUT Information Collection Framework
+# AoI-inspired collaborative information collection for AUV-assisted internet of underwater things
 
 ## Overview
 
